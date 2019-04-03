@@ -2,8 +2,9 @@
 
 ## RUN INSTALLATION SCRIPT
 
+```sh
 sudo sh -c "$(curl -fsSL https://github.com/radamou/custom-prompt/blob/master/install-env-script/install-packages.sh)"
-
+```
 
 ## UPDATE zshrc file
 
