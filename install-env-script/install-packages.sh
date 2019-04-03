@@ -61,8 +61,8 @@ installLazyGit() {
 	sudo apt-get install lazygit
 }
 
-#configurePrompt
+configurePrompt
 #installKepassXc
 #installHttpie
 #installCheatSh
-installLazyGit
+#installLazyGit
