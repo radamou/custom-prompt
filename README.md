@@ -1,12 +1,12 @@
-# HOW IT WORKS
+### HOW IT WORKS
 
-## RUN INSTALLATION SCRIPT
+#### RUN INSTALLATION SCRIPT
 
 ```sh
 sudo sh -c "$(curl -fsSL https://github.com/radamou/custom-prompt/blob/master/install-env-script/install-packages.sh)"
 ```
 
-## UPDATE zshrc file
+#### UPDATE zshrc file
 
 ```sh
   vim ~/.zshrc
@@ -20,7 +20,7 @@ ADD theses two lines
 ```
 
 
-## UNABLE zsh instead of bash
+#### UNABLE zsh instead of bash
 
 ```sh
   exec zsh
