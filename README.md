@@ -29,5 +29,6 @@ ADD theses two lines
 Then exist terminal and open a new one
 
 #### ScreenShot
+![Example](https://github.com/radamou/custom-prompt/blob/master/img/custom-promt.png "custom promt")
 
 
